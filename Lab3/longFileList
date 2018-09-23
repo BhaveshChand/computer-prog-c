@@ -1,0 +1,10 @@
+total 32
+-rw-rw-r-- 1 FDUSER FDUSER 372 Feb  4 21:18 cal1
+-rw-rw-r-- 1 FDUSER FDUSER 188 Feb  4 21:16 cal2
+-rw-rw-r-- 1 FDUSER FDUSER 195 Feb  4 21:09 file1
+-rw-rw-r-- 1 FDUSER FDUSER 390 Feb  4 21:13 file2
+-rw-rw-r-- 1 FDUSER FDUSER 195 Feb  4 21:10 file3
+-rw-rw-r-- 1 FDUSER FDUSER  55 Feb  4 21:28 filelist
+-rw-rw-r-- 1 FDUSER FDUSER   0 Feb  4 21:29 longFileList
+-rw-rw-r-- 1 FDUSER FDUSER 372 Feb  4 21:23 testCal1
+-rw-rw-r-- 1 FDUSER FDUSER 188 Feb  4 21:26 testCal2
