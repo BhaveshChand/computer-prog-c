@@ -1,0 +1,2 @@
+Enter a line: Want to enter another line?(y/n): Enter a line: Want to enter another line?(y/n): Enter a line: Want to enter another line?(y/n): Enter a line: Want to enter another line?(y/n): Enter a line: Want to enter another line?(y/n): Enter a line: Want to enter another line?(y/n): Enter the word to search: Lines containing the word today. are:
+I will not fuck today.

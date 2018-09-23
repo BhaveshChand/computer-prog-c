@@ -1,0 +1,30 @@
+ Q1.            Write a program to print the following series and also find out the sum of series.
+
+                                          1 + 22 + 333 + 4444 +.................. + N terms
+
+Q2. Rewrite the program written as PROGRAM 1 using only do-while loops; and as PROGRAM 2 using only for loop. First implement  the given programs and see their respective output. Then, rewrite them and see whether you get the same output or not.
+
+PROGRAM 1:
+
+                int main (void){
+                             int num;
+                             printf ("Enter a positive integer");
+                             scanf ("%d",&num);
+                             do {
+                                          printf ("%d  ",num%10);
+                                          num /= 10;
+                                   } while (num > 0);
+                                      return (0);
+                            }
+ 
+
+PROGRAM 2
+
+                        int main(void)
+                        {
+                          int i, j;
+                          for(i=0;i<10; ++i)
+                               for(j=1; j<40; j++)
+                                        printf(“%d %d \t”, i,j);
+                          return (0);
+                        }

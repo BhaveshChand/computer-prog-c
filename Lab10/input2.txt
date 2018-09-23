@@ -1,0 +1,14 @@
+I will kill.
+y
+I will not kill.
+y
+I will not fuck today.
+y
+I will fuck.
+y
+I will eat.
+y
+I will not eat.
+n
+today.
+
